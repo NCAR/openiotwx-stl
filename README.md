@@ -20,7 +20,7 @@ The configuration consists of:
 **Print time is estimated at 41h**.
 
 | Part | Location | Est. Print Time | Notes | 
-|:---:| :---: | :--|
+|:---:| :---: | :--: | :-- |
 | 3.8" Housing (3 opening) | [./housing/orb38_3open.stl](./housing/orb38_3open.stl) | 12h | 20-25% infill; positioned thread side down |
 | basic shield housing ( for BME680) | housing (MF) [./shield/mushroomshield_MF.stl](./shield/mushroomshield_MF.stl) | 6h | print cup side up / (M) thread down; use limited support to end of thread for stability; 25% infill |
 |a basic AQ housing (3 part hooded)) | base (M) [./aq/aq_base_M.stl](./aq/aq_base_M.stl); <br/>vented hood (F) [./aq/aq_vented_locking_list_F.stl](./aq/aq_vented_locking_list_F.stl); <br/> terminating hood (M) [./aq/aq_hood_terminating_M.stl](./aq/aq_base_M.stl)  | **base**: 6h; **hoods**: 4h each; 14h total | **base**: print thread side to plate, 20-25% infill; **hoods**: print sideways with _tree support_ |
