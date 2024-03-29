@@ -28,3 +28,7 @@ The configuration consists of:
 |a basic AQ housing (2 part hooded) | base (M) [./aq/aq_grill_base_M.stl](./aq/aq_grill_base_M.stl); <br/>vented lid [./aq/aq_grill_lid.stl](./aq/aq_grill_lid.stl)  | **base**: 4h; **lid**: 2h | **base**: print on side with tree support (@2% infill), 20-25% infill everywhere else; **lid**: print grill side down, 20-25% infill  |
 | PVC adapter | [./pvcadapter/knurled_pvc_adapter_M.stl](./pvcadapter/knurled_pvc_adapter_M.stl) | 3h | print thread side up, 30-40% infill for maximum strength |
 | PVC Rings (4x) | [./solarpanel/solarpanel_ring_clamp_11mm.stl](./solarpanel/solarpanel_ring_clamp_11mm.stl) | 6h | print flat side to plate, 30-40% infill for maximum strength |
+
+## Project Links
+
+* openIoTwx Hub :  [https://github.com/NCAR/openiotwx-hub](https://github.com/NCAR/openiotwx-hub)
